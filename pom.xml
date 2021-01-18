@@ -31,5 +31,6 @@
 	</build>
 	<modules>
 		<module>mysite05</module>
+		<module>mysite06</module>
 	</modules>
 </project>
